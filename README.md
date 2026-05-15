@@ -1,2 +1,34 @@
-# mothers day
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MOTHER'S DAY Card for Mom</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="bg">
+    <div class="card">
+        <h1>🎂 Happy Mother's Day 🎂</h1>
+        <p class="line">To the most loving & caring person ❤️</p>
+
+        <div class="heart">💖</div>
+
+        <p class="msg">
+            Thank you for your endless love, 
+            sacrifices and blessings.  
+            May your life be filled with happiness,  
+            peace and good health🌸
+
+
+        </p>
+
+        <p class="from">— With lots of love 💕</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+
 
